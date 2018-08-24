@@ -10,3 +10,5 @@ press N to show Nothing (to speed up the evolution)
 + and - adjust the game speed
 
 have fun
+
+node.pde conaton neurol network good.
